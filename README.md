@@ -1,7 +1,7 @@
 # Git install script
-Makes installing Git a breeze!
+##Makes installing Git a breeze!
 
-Written in Shell and meant for linux/macOS only. G.I.S makes installing git simple!
+Written in Shell and meant for Linux/MacOS ***only***. G.I.S makes installing git simple!
 
 Step 1: install by downloading this in a .zip
 Step 2: Open Terminal and run `cd Downloads` then run `cd Git-install-script-main`
