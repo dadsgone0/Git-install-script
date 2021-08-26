@@ -10,5 +10,5 @@ Step 4: Done! you can choose to install wget if you would like too, but you dont
 
 Note: there are no dependencies you need before running this script, it will install it all for you.
 
-Thats it! Request any features you would like by initiating a pull request, i may in the future make a windows version too. 
+Thats it! Request any features you would like by adding an Issue, i may in the future make a windows version too. 
 
