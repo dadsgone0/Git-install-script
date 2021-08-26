@@ -1,5 +1,5 @@
 # Git install script
-##Makes installing Git a breeze!
+Makes installing Git a breeze!
 
 Written in Shell and meant for Linux/MacOS ***only***. G.I.S makes installing git simple!
 
