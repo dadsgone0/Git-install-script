@@ -1,3 +1,4 @@
+#!/bin/bash
 while true; do
     read -p "First we have to install Homebrew, is that okay? Y or N? If you choose N this script will exit." yn
     case $yn in
