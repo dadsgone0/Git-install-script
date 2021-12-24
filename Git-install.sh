@@ -17,7 +17,7 @@ while true; do
     esac
 done
 while true; do
-    read -p "And done! would you like to install wget too? like before, if you answer N then this script will exit" yn
+    read -p "And done! would you like to install wget too? like before, if you choose N then this script will exit" yn
     case $yn in
         [Yy]* ) brew install wget; break;;
         [Nn]* ) echo Exiting!; exit;;
